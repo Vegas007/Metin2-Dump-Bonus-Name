@@ -1,6 +1,10 @@
 # Metin2-Dump-Bonus-Name
 Get bonus name from tooltip affect dictionary as string, ignore the %value% and function SA, SNA etc.
 
+Ignore the dump.txt & dump_test.py, is just to test how function works.
+___
+>Just follow tutorial from localeInfo.py
+
 ```python
 import localeInfo
 import item
