@@ -3,7 +3,7 @@ Get bonus name from tooltip affect dictionary as string, ignore the %value% and 
 
 Ignore the dump.txt & dump_test.py, is just to test how function works.
 ___
->Just follow tutorial from localeInfo.py
+>Just follow tutorial from [localeInfo.py](https://github.com/Vegas007/Metin2-Dump-Bonus-Name/blob/master/localeInfo.py).
 
 ```python
 import localeInfo
