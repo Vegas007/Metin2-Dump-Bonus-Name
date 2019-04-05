@@ -9,6 +9,6 @@ import item
 print localeInfo.FormatBonusNameString(item.APPLY_RESIST_SWORD)
 
 # FormatBonusNameDict
-for bonusIndex, bonusName in localeInfo.FormatBonusNameString().iteritems():
+for bonusIndex, bonusName in localeInfo.FormatBonusNameDict().iteritems():
 	print '{:d}: {:s}'.format(bonusIndex, bonusName)
 ```
