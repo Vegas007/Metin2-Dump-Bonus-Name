@@ -48,4 +48,6 @@ def Print():
 			print functools.reduce(lambda *args: '{0} {1}'.format(*args), re.findall(pattern='[a-zA-Z]+', string=eval(line.split('\t')[0])(0), flags=0))
 		except (SyntaxError, NameError, TypeError, ZeroDivisionError):
 			print SyntaxError
-Print()
+			
+if __name__ == '__main__':
+	Print()
