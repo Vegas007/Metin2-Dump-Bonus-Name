@@ -11,7 +11,7 @@ def FormatBonusNameString(affectType):
 	'''
 	AFFECT_DICT = uiToolTip.ItemToolTip().AFFECT_DICT
 	if affectType in AFFECT_DICT:
-		return ' '.join(re.findall(pattern='[a-zA-Z]+', string=AFFECT_DICT[affectType](0), flags=0)) if affectType in AFFECT_DICT else 'UNKNOWN_TYPE'
+		return ' '.join(re.findall(pattern='[a-zA-Z]+', string=AFFECT_DICT[affectType](0), flags=0))
 
 	return 'UNKNOWN_TYPE'
 	
