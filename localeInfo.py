@@ -7,12 +7,11 @@ import uiToolTip
 def FormatBonusNameString(affectType):
 	''' Return name of bonus (string) by a specific affect type.
 		param-ex: item.APPLY_RESIST_FIRE
-		return-ex: 'Defence chance against shaman attacks'
+		return-ex: 'Fire Resistance'
 	'''
 	AFFECT_DICT = uiToolTip.ItemToolTip().AFFECT_DICT
 	if affectType in AFFECT_DICT:
 		return ' '.join(re.findall(pattern='[a-zA-Z]+', string=AFFECT_DICT[affectType](0), flags=0))
-
 	return 'UNKNOWN_TYPE'
 	
 def FormatBonusNameDict():
