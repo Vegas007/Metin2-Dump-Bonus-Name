@@ -1,0 +1,108 @@
+1 : Max HP
+2 : Max SP
+3 : Vitality
+4 : Intelligence
+5 : Strength
+6 : Dexterity
+7 : Attack Speed
+8 : Movement Speed
+9 : Casting Speed
+10 : HP Regeneration
+11 : SP Regeneration
+12 : Poisoning chance
+13 : Blackout chance
+14 : Slowing chance
+15 : Chance of critical hit
+16 : Chance for piercing Hits
+17 : Strong against Half Humans
+18 : Strong against Animals
+19 : Strong against Orcs
+20 : Strong against Mystics
+21 : Strong against Undead
+22 : Strong against Devils
+23 : damage will be absorbed by HP
+24 : damage will be absorbed by SP
+25 : chance to rob SP
+26 : Chance to get back SP when hit
+27 : Chance to block a close combat attack
+28 : Chance to avoid Arrows
+29 : Sword Defence
+30 : Two Handed Defence
+31 : Dagger Defence
+32 : Bell Defence
+33 : Fan Defence
+34 : Arrow Defence
+35 : Fire Resistance
+36 : Lightning Resistance
+37 : Magic Resistance
+38 : Wind Resistance
+39 : Chance to reflect close combat hits
+40 : Chance to reflect Curse
+41 : Poison Resistance
+42 : Chance to restore SP
+43 : Chance for EXP Bonus
+44 : Chance to drop double Yang
+45 : Chance to drop double the Items
+46 : Potion effect raise
+47 : Chance to restore HP
+48 : Defence against blackouts
+49 : Defence against slowing
+50 : Immune against falling down
+52 : Arc Range m
+53 : Attack Value
+54 : Defence
+55 : Magical Attack Value
+56 : Magical Defence
+58 : Max Endurance
+59 : Strong against Warriorr
+60 : Strong against Ninjas
+61 : Strong against Sura
+62 : Strong against Shamans
+63 : Strength against monsters
+64 : Attack Value
+65 : Defence
+66 : EXP
+67 : Item drop chance
+68 : Yang drop chance is increased by
+69 : Max HP
+70 : Max SP
+71 : Skill Damage
+72 : Average Damage
+73 : Resistance against Skill Damage
+74 : Average Damage Resistance
+76 : iCafe EXP Bonus
+77 : iCafe Chance of capturing Items plus
+78 : Defence chance against warrior attacks
+79 : Defence chance against ninja attacks
+80 : Defence chance against sura attacks
+81 : Defence chance against shaman attacks
+82 : Energy
+84 : Costume bonus
+85 : Magic attack
+86 : Magic melee attack
+87 : Ice resistance
+88 : Earth resistance
+89 : Resistance against darkness
+90 : Resistance against critical hits
+91 : Resistance against piercing hits
+92 : Resistance against bleeding attacks
+93 : Bleeding attack
+94 : Strong against Lycans
+95 : Defence chance against Lycan attacks
+96 : Claw Defence
+99 : Power of Lightning
+100 : Power of Fire
+101 : Power of Ice
+102 : Power of the Wind
+103 : Power of Earth
+104 : Power of Darkness
+105 : Strong against Zodiac Monsters
+106 : Strong against Insects
+107 : Strong against Desert Monsters
+108 : Sword Defence Break
+109 : Two handed Defence Break
+111 : Bell Defence Break
+112 : Fan Defence Break
+114 : Claw Defence Break
+115 : Resistance to Half Humans
+116 : Fall Resistance
