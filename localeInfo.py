@@ -21,5 +21,5 @@ def FormatBonusNameDict():
 	'''
 	result = {}
 	for affectType in uiToolTip.ItemToolTip().AFFECT_DICT.keys():
-		result.update({affectType: FormatBonusNameByAffectType(affectType)})
+		result.update({affectType: FormatBonusNameString(affectType)})
 	return result
